@@ -217,6 +217,10 @@ The database schema is diagrammed in `Schma/Schema.drawio.png`.
 - **Re-examine warehouse capacity vs. actual stock.** Every warehouse shown on the Insights page reports utilization well above 100%, which is either a genuine overstock risk or a sign the `storage_capacity` field needs to be interpreted in different units before it's used for planning — worth clarifying before acting on it
 - **Finish the Insights page.** The "Key Business Insights" and "Recommended Actions" panels on the Insights dashboard page are still template placeholders (e.g. `[State Name]`, `[X% growth/decline]`) rather than filled-in text — an easy, high-visibility fix since the underlying numbers to fill them in already exist elsewhere on the dashboard
 
+
+### Project Workflow
+![Project Workflow](WorkFlow.jpg)
+
 ### Data Notes & Challenges
 
 - The dataset is pre-generated and already clean (see `Data/README.md`), so the engineering focus here was schema design, relational integrity, and query correctness rather than null-handling or de-duplication
