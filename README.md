@@ -171,6 +171,12 @@ Three scripts cover customer, sales, and — more broadly than the filename sugg
 **Geography**
 - Maharashtra is the clear #1 state by revenue (~₹39.7bn, ~310K orders, ~289K shipments), followed by Gujarat (~₹25.3bn), Tamil Nadu (~₹20.4bn), Karnataka (~₹19.0bn), West Bengal, Uttar Pradesh, Telangana, Delhi, Madhya Pradesh, and Punjab rounding out the top 10
 
+### Sechma
+
+All the files, how they are connected to each other, and which fields are the primary keys and foreign keys are defined in the following image.
+
+![Sechma](Sechma/Database_Schema.drawio.png)
+
 ### Dashboard
 
 The Power BI dashboard (`Power bi/Dasbhored.pbix`) has 7 pages with consistent left-hand navigation and Year/State filters. It's branded "Blue Dart" in the header on every page.
