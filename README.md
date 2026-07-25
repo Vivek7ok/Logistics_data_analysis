@@ -13,6 +13,7 @@ Analyzing orders, shipments, warehouses, and carriers across a pan-India logisti
 - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
 - [SQL Analysis](#sql-analysis)
 - [Key Findings](#key-findings)
+- [Sechma](#sechma)
 - [Dashboard](#dashboard)
 - [Business Recommendations](#business-recommendations)
 - [Data Notes & Challenges](#data-notes--challenges)
