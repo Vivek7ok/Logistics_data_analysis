@@ -175,7 +175,7 @@ Three scripts cover customer, sales, and — more broadly than the filename sugg
 
 All the files, how they are connected to each other, and which fields are the primary keys and foreign keys are defined in the following image.
 
-![Sechma](Sechma/Database_Schema.drawio.png)
+Schma/Database_Schema.drawio.png
 
 ### Dashboard
 
