@@ -102,7 +102,10 @@ Logistics_data_analysis/
 │   ├── Trends.png
 │   └── Insights.png
 │
-└── README.md                    # Readme
+├── Project Report.docx          # Full project report
+├── Summary.md                   # One-page project summary
+├── README.md                    # Readme
+└── Work Flow.png                # End-to-end pipeline diagram
 ```
 
 ### Database Design
