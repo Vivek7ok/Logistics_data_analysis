@@ -16,6 +16,7 @@ Analyzing orders, shipments, warehouses, and carriers across a pan-India logisti
 - [Sechma](#sechma)
 - [Dashboard](#dashboard)
 - [Business Recommendations](#business-recommendations)
+- [Project Workflow](#workflow)
 - [Data Notes & Challenges](#data-notes--challenges)
 - [How to Run This Project](#how-to-run-this-project)
 - [Author & Contact](#author--contact)
